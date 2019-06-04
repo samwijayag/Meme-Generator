@@ -1,7 +1,7 @@
 {
   "name": "meme_generator",
   "version": "0.1.0",
-  "homepage" : "http://samwijayag.github.io/Meme-Generator",
+  "homepage" : "http://samwijayag/Meme-Generator",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
